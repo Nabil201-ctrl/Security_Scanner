@@ -1,0 +1,5 @@
+azure-storage-queue
+azure-identity
+bandit
+safety
+requests
